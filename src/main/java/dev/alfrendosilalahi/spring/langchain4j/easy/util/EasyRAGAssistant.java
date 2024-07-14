@@ -1,4 +1,4 @@
-package dev.alfrendosilalahi.springbootlangchain.easy.util;
+package dev.alfrendosilalahi.spring.langchain4j.easy.util;
 
 public interface EasyRAGAssistant {
 

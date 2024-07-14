@@ -1,4 +1,4 @@
-package dev.alfrendosilalahi.springbootlangchain.easy;
+package dev.alfrendosilalahi.spring.langchain4j.easy;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

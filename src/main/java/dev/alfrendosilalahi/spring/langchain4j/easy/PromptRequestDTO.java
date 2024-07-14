@@ -1,4 +1,4 @@
-package dev.alfrendosilalahi.springbootlangchain.easy;
+package dev.alfrendosilalahi.spring.langchain4j.easy;
 
 import lombok.Getter;
 import lombok.Setter;

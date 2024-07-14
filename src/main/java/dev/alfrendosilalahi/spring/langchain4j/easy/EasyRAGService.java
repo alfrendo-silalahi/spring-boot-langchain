@@ -1,6 +1,6 @@
-package dev.alfrendosilalahi.springbootlangchain.easy;
+package dev.alfrendosilalahi.spring.langchain4j.easy;
 
-import dev.alfrendosilalahi.springbootlangchain.easy.util.EasyRAGAssistant;
+import dev.alfrendosilalahi.spring.langchain4j.easy.util.EasyRAGAssistant;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
